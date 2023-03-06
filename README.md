@@ -71,6 +71,7 @@ This challenge is graded based on the following criteria:
 You are required to submit the following for review:
 
 * The URL of the deployed application.
+* https://sumbal28.github.io/Password-Generator23/
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
