@@ -93,6 +93,7 @@ var builtArray = [];
 function getPasswordOptions() {
   bigArray = bigArray.concat(lowerCasedCharacters);
 }
+//getPasswordOptions();
 
 // Function for getting a random element from an array
 function getRandom(arr) {}
@@ -109,7 +110,6 @@ function generatePassword() {
   return lowerCasedCharacters + numericCharacters + upperCasedCharacters;
 }
 
-generatePassword();
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
