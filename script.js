@@ -96,7 +96,7 @@ function generatePassword() {
   uppercaseArray[1];
 
   // Creating variables to prompt user for password options
-  let numCharacter = prompt("How many number of character? between 7 to 100");
+  let numCharacter = prompt("How many number of character? between 10 to 64");
   let numbers = confirm("want numbers in password?");
   let uppercases = confirm("Want uppercases in password?");
   let lowercases = confirm("Want lowercases in password?");
